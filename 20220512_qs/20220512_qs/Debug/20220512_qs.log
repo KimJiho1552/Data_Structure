@@ -1,0 +1,4 @@
+﻿  ex6_1.c
+C:\CStudy\20220512_qs\20220512_qs\ex6_1.c(6,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\CStudy\20220512_qs\20220512_qs\ex6_1.c(21,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  20220512_qs.vcxproj -> C:\CStudy\20220512_qs\Debug\20220512_qs.exe
